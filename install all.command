@@ -7,3 +7,4 @@ brew cask install intellij-idea-ce
 brew cask install eclipse-java
 
 brew install git
+chmod +x drag
